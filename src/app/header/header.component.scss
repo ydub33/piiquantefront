@@ -12,6 +12,16 @@ nav {
   border-bottom: thin solid black;
 }
 
+@media (max-width: 790px) {
+
+  nav {
+      display: flex;
+      flex-direction: column-reverse;
+      align-items: center;
+  }
+
+}
+
 h1 {
   font-weight: 700;
   font-size: 2.4em;
