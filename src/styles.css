@@ -1,0 +1,10 @@
+@media (max-width: 790px) {
+
+    nav {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+}
+
